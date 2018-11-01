@@ -61,13 +61,13 @@
 			isa = PBXGroup;
 			children = (
 				C34CC9032025266500B531B8 /* AppDelegate.swift */,
-				C34CC9052025266500B531B8 /* GameScene.sks */,
 				C34CC9072025266500B531B8 /* Actions.sks */,
+				C34CC9052025266500B531B8 /* GameScene.sks */,
 				C34CC9092025266500B531B8 /* GameScene.swift */,
 				C34CC90B2025266500B531B8 /* GameViewController.swift */,
 				C34CC90D2025266500B531B8 /* Main.storyboard */,
-				C34CC9102025266500B531B8 /* Assets.xcassets */,
 				C34CC9122025266500B531B8 /* LaunchScreen.storyboard */,
+				C34CC9102025266500B531B8 /* Assets.xcassets */,
 				C34CC9152025266500B531B8 /* Info.plist */,
 			);
 			path = "Lights Out";
